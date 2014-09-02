@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 4e1946593f9b14fbbbad6389eafd67a4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ChoppedKale
+    21300002: ChoppedKale_0
+    21300004: ChoppedKale_1
+    21300006: ChoppedKale_2
+    21300008: ChoppedKale_3
+    21300010: ChoppedKale_4
+    21300012: ChoppedKale_5
+    21300014: ChoppedKale_6
+    21300016: ChoppedKale_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 256
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ChoppedKale_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 136
+        width: 17
+        height: 84
+      alignment: 9
+      pivot: {x: .5, y: .923156381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChoppedKale_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 190
+        width: 36
+        height: 54
+      alignment: 9
+      pivot: {x: .344605118, y: .0557830259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChoppedKale_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 215
+        width: 26
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChoppedKale_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 29
+        height: 72
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChoppedKale_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 88
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChoppedKale_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 10
+        width: 28
+        height: 72
+      alignment: 9
+      pivot: {x: .284837991, y: .988046646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChoppedKale_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 82
+        width: 17
+        height: 85
+      alignment: 9
+      pivot: {x: .5, y: .918997705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ChoppedKale_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 30
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
